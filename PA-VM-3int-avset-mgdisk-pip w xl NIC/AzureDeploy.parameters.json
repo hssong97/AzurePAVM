@@ -4,7 +4,7 @@
     "parameters": {
         "vmName": {
             "defaultValue": "VM-FW1",
-            "type": "String",
+            {    "type": "String",
             "metadata": {
                 "description": "Name of VM-Series FW in the Azure portal"
             }
